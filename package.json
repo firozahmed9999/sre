@@ -41,7 +41,7 @@
   "engines": {
     "npm": ">=7.0.0",
     "yarn": ">=1.22.0",
-    "node": ">=15.0.0"
+    "node": ">=15.0.0 <=17.0.0"
   },
   "devDependencies": {
     "prettier": "^3.8.0"
