@@ -1,4 +1,3 @@
-const x = 1;;;
 import IPv4Addr from "./IPv4Addr";
 import "./App.css";
 
